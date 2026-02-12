@@ -30,14 +30,13 @@ Designed for schools and colleges to manage student attendance efficiently.
 
 ---
 
-## 📂 Project Structure
-
+📂 Project Structure
 lib/
-├── core/
-├── features/
-│ └── attendance/
-├── injection_container.dart
-└── main.dart
+ ├── core/
+ ├── features/
+ │   └── attendance/
+ ├── injection_container.dart
+ └── main.dart
 
 
 ---
@@ -55,11 +54,13 @@ lib/
 flutter clean
 flutter pub get
 flutter run
+
 📦 Build APK
 flutter build apk
 Output:
-
 build/app/outputs/flutter-apk/app-release.apk
+
+
 👩‍💻 Developer
 Anwita Padhi
 GitHub: https://github.com/Anwita0106
