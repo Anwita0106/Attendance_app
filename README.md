@@ -33,13 +33,11 @@ Designed for schools and colleges to manage student attendance efficiently.
 📂 Project Structure
 lib/
  ├── core/
- 
  ├── features/
  │   └── attendance/
- 
  ├── injection_container.dart
- 
  └── main.dart
+
 
 
 ---
