@@ -5,7 +5,6 @@ A Flutter-based Attendance Management App built using Clean Architecture and BLo
 Designed for schools and colleges to manage student attendance efficiently.
 
 ---
-
 ## ✨ Features
 
 - ✅ Mark student attendance  
